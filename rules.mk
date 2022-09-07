@@ -35,3 +35,5 @@ CUSTOM_MATRIX = yes
 SRC += ws2812.c matrix.c
 
 LAYOUTS = 65_iso_blocker
+
+KEY_OVERRIDE_ENABLE = yes
